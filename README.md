@@ -1,4 +1,4 @@
-# Hi there, I'm [karimnxt] 👋
+# Hi there, I'm karimnxt 👋
 
 ### 🛡️ About Me
 - 🔭 **Focus:** Deep-diving into **Cyber Security** & **Ethical Hacking**.
